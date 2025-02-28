@@ -4,6 +4,10 @@
   height="150" 
   />
 
+[![Atlas Yigit Aydin](https://img.shields.io/badge/-atlasyigitaydin.com-181717?style=flat&logo=clubhouse&logoColor=white)](https://atlasyigitaydin.com)
+[![ProtoKoi](https://img.shields.io/badge/-protokoi.com-181717?style=flat&logo=taichilang&logoColor=white)](https://protokoi.com)
+<!--[![KoiJs](https://img.shields.io/badge/-koijs.com-181717?style=flat&logo=google-chrome&logoColor=white)](https://koijs.com)-->
+<!--[![KoiApi](https://img.shields.io/badge/-koiapi.com-181717?style=flat&logo=google-chrome&logoColor=white)](https://koiapi.com)-->
 
 ###
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
