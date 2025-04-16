@@ -6,9 +6,13 @@
   />
 
 
-[![Atlas Yigit Aydin](https://img.shields.io/badge/-atlasyigitaydin.com-181717?style=flat&logo=clubhouse&logoColor=white)](https://atlasyigitaydin.com) 
+[![Atlas Yigit Aydin](https://img.shields.io/badge/-atlasyigitaydin.com-181717?style=flat&logo=clubhouse&logoColor=white)](https://atlasyigitaydin.com)
+
 [![KoiJs](https://img.shields.io/badge/-koijs.com-181717?style=flat&logo=taichilang&logoColor=white)](https://koijs.com)
+
 [![ApiKoi](https://img.shields.io/badge/-apikoi.com-181717?style=flat&logo=taichilang&logoColor=white)](https://apikoi.com)
+
+[![Emojix](https://img.shields.io/badge/-apikoi.com-181717?style=flat&logo=taichilang&logoColor=white)](https://emojix.atlaxt.me)
 
 <!--[![KoiJs](https://img.shields.io/badge/-koijs.com-181717?style=flat&logo=google-chrome&logoColor=white)](https://koijs.com)-->
 <!--[![KoiApi](https://img.shields.io/badge/-koiapi.com-181717?style=flat&logo=google-chrome&logoColor=white)](https://koiapi.com)-->
