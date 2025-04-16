@@ -6,7 +6,8 @@
   />
 
 
-[![Atlas Yigit Aydin](https://img.shields.io/badge/-atlaxt-181717?style=flat&logo=clubhouse&logoColor=white)](https://atlasyigitaydin.com)
+[![Atlas Yigit Aydin](https://img.shields.io/badge/-atlaxt.me-181717?style=flat&logo=clubhouse&logoColor=white)](https://atlasyigitaydin.com)
+
 [![KoiJs](https://img.shields.io/badge/-koijs-181717?style=flat&logo=taichilang&logoColor=white)](https://koijs.com)
 [![ApiKoi](https://img.shields.io/badge/-apikoi-181717?style=flat&logo=taichilang&logoColor=white)](https://apikoi.com)
 [![Emojix](https://img.shields.io/badge/-emojix-181717?style=flat&logo=taichilang&logoColor=white)](https://emojix.atlaxt.me)
