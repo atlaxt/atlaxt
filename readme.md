@@ -9,7 +9,7 @@
 
 [![KoiJs](https://img.shields.io/badge/-koijs-181717?style=flat&logo=taichilang&logoColor=white)](https://koijs.com)
 [![ApiKoi](https://img.shields.io/badge/-apikoi-181717?style=flat&logo=taichilang&logoColor=white)](https://apikoi.com)
-[![Emojix](https://img.shields.io/badge/-emojix-181717?style=flat&logo=taichilang&logoColor=white)](https://emojix.atlaxt.me)
+[![imoji](https://img.shields.io/badge/-emojix-181717?style=flat&logo=taichilang&logoColor=white)](https://imoji.co)
 [![Git101](https://img.shields.io/badge/-git101-181717?style=flat&logo=taichilang&logoColor=white)](https://git101.atlaxt.me)
 
 <!--[![KoiJs](https://img.shields.io/badge/-koijs.com-181717?style=flat&logo=google-chrome&logoColor=white)](https://koijs.com)-->
