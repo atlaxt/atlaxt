@@ -1,6 +1,6 @@
 
   <img 
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlnaHo2MWo3c2wyYTB4d2g5NzJsMG4wNXJ0aDR2djNydTEwYnR5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  
+  src="./assets/sign_white.png"  
   align="right" 
   height="150" 
   />
