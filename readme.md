@@ -2,7 +2,7 @@
   <img 
   src="./assets/sign_white.png"  
   align="right" 
-  height="150" 
+  height="100" 
   />
 
 
