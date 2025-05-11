@@ -1,9 +1,11 @@
 
+<a href="https://atlaxt.me" target="_blank">
   <img 
   src="./assets/sign_white.png"  
   align="right" 
   height="100" 
   />
+</a>
 
 [![Atlas Yigit Aydin](https://img.shields.io/badge/-atlaxt.me-181717?style=flat&logo=clubhouse&logoColor=white)](https://atlaxt.me)
 
