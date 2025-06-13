@@ -7,7 +7,6 @@
   />
 </a>
 
-
 [![Atlas Yigit Aydin](https://img.shields.io/badge/-atlaxt.me-181717?style=flat&logo=clubhouse&logoColor=white)](https://atlaxt.me)
 
 <!--
