@@ -4,6 +4,7 @@
   src="./assets/sign_white.png"  
   align="right" 
   height="100" 
+  width="100"
   />
 </a>
 
