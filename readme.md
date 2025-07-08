@@ -3,8 +3,8 @@
   <img 
   src="./assets/sign_white.png"  
   align="right" 
-  height="100" 
-  width="100"
+  height="70" 
+  width="70"
   />
 </a>
 
@@ -20,6 +20,7 @@
 [![100 css](https://img.shields.io/badge/-100css-181717?style=flat&logo=taichilang&logoColor=white)](https://100-css.atlaxt.me)
 -->
 
+<!--
 ###
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) 
@@ -38,6 +39,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+-->
 
 
 <!--
