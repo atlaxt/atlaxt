@@ -1,4 +1,13 @@
 
+<p align="center">
+  <samp>
+    <a href="https://atlaxt.me">me</a> .
+    <a href="https://atlaxt.me/projects">projects</a> .
+    <a href="https://atlaxt.me/photos">photos</a> 
+  </samp>
+</p>
+
+
 <a href="https://atlaxt.me" target="_blank" >
   <img 
   src="./assets/sign_white.png"  
@@ -9,7 +18,9 @@
 </a>
 
 
+<!--
 [![Atlas Yigit Aydin](https://img.shields.io/badge/-atlaxt.me-181717?style=flat&logo=clubhouse&logoColor=white)](https://atlaxt.me)
+-->
 
 <!--
 [![InkHub](https://img.shields.io/badge/-InkHub-181717?style=flat&logo=taichilang&logoColor=white)](https://inkhub.atlaxt.me)
