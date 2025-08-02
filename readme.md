@@ -7,7 +7,6 @@
   </samp>
 </p>
 
-
 <a href="https://atlaxt.me" target="_blank" >
   <img 
   src="./assets/sign_white.png"  
@@ -59,4 +58,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@atlaxt) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atlasyigitaydin@gmail.com) 
 -->
+
 
