@@ -3,7 +3,7 @@
   <samp>
     <a href="https://atlaxt.me">me</a> .
     <a href="https://atlaxt.me/projects">projects</a> .
-    <a href="https://atlaxt.me/photos">books</a> 
+    <a href="https://atlaxt.me/books">books</a> 
 <!--     <a href="https://atlaxt.me/photos">photos</a>  -->
   </samp>
 </p>
@@ -59,6 +59,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@atlaxt) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atlasyigitaydin@gmail.com) 
 -->
+
 
 
 
