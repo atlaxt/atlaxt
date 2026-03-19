@@ -3,8 +3,8 @@
   <samp>
     <a href="https://atlaxt.me">me</a> .
     <a href="https://atlaxt.me/writings">writings</a> .
-    <a href="https://atlaxt.me/writings">library</a> .
-    <a href="https://atlaxt.me/projects">cli</a>
+    <a href="https://atlaxt.me/books">library</a> .
+    <a href="https://atlaxt.me/cli">cli</a>
 <!--
     <a href="https://atlaxt.me/books">books</a> .
     <a href="https://atlaxt.me/photos">photos</a> 
