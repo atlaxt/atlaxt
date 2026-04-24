@@ -2,6 +2,7 @@
 <p align="center">
   <samp>
     <a href="https://atlaxt.me">me</a> .
+    <a href="https://atlaxt.me/projects">projects</a> .
     <a href="https://atlaxt.me/blog">blog</a> .
     <a href="https://atlaxt.me/notes">notes</a> .
     <a href="https://atlaxt.me/feed">news</a> .
