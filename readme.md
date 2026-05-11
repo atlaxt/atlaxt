@@ -5,6 +5,7 @@
     <a href="https://atlaxt.me/projects">projects</a> .
     <a href="https://atlaxt.me/blog">blog</a> .
     <a href="https://atlaxt.me/notes">notes</a> .
+    <a href="https://atlaxt.me/talks">talks</a> .
     <a href="https://atlaxt.me/feed">news</a> .
     <a href="https://atlaxt.me/contact">contact</a> .
     <a href="https://atlaxt.me/books">library</a> .
